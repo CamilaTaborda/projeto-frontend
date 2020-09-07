@@ -3,7 +3,7 @@ body {
   color: #222;
   }
   body > header {
-  background-color: #627A14;
+  background-color: #c6c7bf;
   padding: 1vh 1vw;
   height: 10vh;
   box-sizing: border-box;
@@ -14,20 +14,15 @@ body {
   }
   body > footer {
   height: 5vh;
-  background-color: #B3CB65;
+  background-color: #fcf9f9;
   }
   h1.app-title {
   font-size: 20px;
   }
   section.main-feature {
   float: left;
-  background-color: #ca9f9f;
+  /*background-color: #ca9f9f;*/
   width: 80vw;
   height: 85vh;
   }
-  aside.secundary-feature {
-  float: right; background-color: #d8c0f0;
-  width: 20vw;
-  height: 85vh;
-  color: rgb(255, 255, 255);
-  }
+ 
