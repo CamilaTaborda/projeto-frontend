@@ -19,7 +19,7 @@ function getUserPosition() {
     })
     .then((data) => {
  
-      cidade.innerText ='Em  ' + data.name + ' ' + 'porque Ele está onde você está!';
+      cidade.innerText ='Ele habita em :   ' + data.name + ' ' + 'porque Ele está onde você está!';
       
       console.log(data);
 
