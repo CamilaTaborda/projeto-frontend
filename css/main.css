@@ -35,7 +35,7 @@ main {
 	filter: blur(10px);
 }
 
-p {
+.l-p {
 	text-align: center;
 	position: relative;
 	left: 50%;
@@ -46,7 +46,7 @@ p {
 	line-height: 1.3;
 }
 
-span {
+.l-span {
 	display: block;
 	color: rgb(245, 123, 9);
 }
@@ -57,7 +57,7 @@ span {
 @media (min-width: 992px) {
   @import url('https://fonts.googleapis.com/css?family=Yatra+One');
 
-  main {
+  ;main {
     height: 100vh;
     background: url('https://images.unsplash.com/photo-1538851831243-05ff47c0516d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=82c2737f0ec33ca44109119ce9214dfb&auto=format&fit=crop&w=1867&q=80') fixed no-repeat;
     background-size: cover;
@@ -91,7 +91,7 @@ span {
     filter: blur(10px);
   }
   
-  p {
+  .l-p {
     text-align: center;
     position: relative;
     left: 50%;
@@ -102,7 +102,7 @@ span {
     line-height: 1.3;
   }
   
-  span {
+  .l-span {
     display: block;
     color: rgb(54, 2, 240);
   }
