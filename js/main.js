@@ -10,6 +10,7 @@ function getUserPosition() {
     });
   }
 
+  //utilização de FetchApi 
   function fetchApi(url) {
     
   
