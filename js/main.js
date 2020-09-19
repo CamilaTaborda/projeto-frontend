@@ -28,7 +28,7 @@ function getUserPosition() {
       console.log(data);
 
     })
-  
+  //utilização de promise para tratativa de erro
     .catch((err) => {
       cidade.innerText = 'Verifique a sua conexão.';
      
