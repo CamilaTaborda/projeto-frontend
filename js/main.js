@@ -17,7 +17,7 @@ function getUserPosition() {
     let cidade = document.getElementById('cidade');//
   
     fetch(url)
-   
+   //utilização de arrow function
     .then((data) => {
       return data.json();
     })
