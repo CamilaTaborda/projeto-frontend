@@ -6,6 +6,7 @@
     background: url('https://images.unsplash.com/photo-1538851831243-05ff47c0516d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=82c2737f0ec33ca44109119ce9214dfb&auto=format&fit=crop&w=1867&q=80') fixed no-repeat;
     background-size: cover;
     background-position: center;
+    /*Separação das camadas da frente e de fundo */
   }
   
   .message {
